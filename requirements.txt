@@ -1,2 +1,4 @@
-tensorflow
-keras
+tensorflow~=2.8.0
+keras~=2.8.0
+numpy~=1.21.5
+scikit-learn~=1.0.2
